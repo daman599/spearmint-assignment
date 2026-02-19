@@ -8,7 +8,7 @@ export const Hero = () => {
 
                 {/* Left Content */}
                 <div className="lg:w-2xl flex flex-col items-start justify-center gap-5">
-                    <h1 className="text-3xl lg:text-4xl xl:text-5xl font-semibold md:leading-10 lg:leading-12 xl:leading-16 text-black">
+                    <h1 className="text-3xl lg:text-4xl xl:text-5xl font-bold md:leading-10 lg:leading-12 xl:leading-16 text-black">
                         Grow Your Business <br />
                         with Smart Digital <br />
                         Marketing & IT Solutions

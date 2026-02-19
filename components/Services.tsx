@@ -47,7 +47,7 @@ export const Services = () => {
 
                 {/* Heading */}
                 <div className="text-center max-w-3xl mx-auto">
-                    <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold text-black">
+                    <h2 className="text-3xl lg:text-4xl font-bold text-black">
                         Our Digital Marketing & IT Services
                     </h2>
                     <p className="mt-4 text-gray-600">
